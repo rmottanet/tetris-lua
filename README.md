@@ -60,7 +60,7 @@ Enjoy playing Tetris\!
 
 ## Old School Gaming Hub
 
-Tetris Love2D is part of the Old School Gaming Hub organization on GitHub. The **Old School Gaming Hub** is dedicated to developing classic 2D games, primarily focusing on **C++ implementations**, to provide nostalgic gaming experiences for enthusiasts and developers alike. Explore more projects and games from [Old School Gaming Hub](https://www.google.com/search?q=https://github.com/Old-School-Gaming-Hub).
+Tetris Love2D is part of the Old School Gaming Hub organization on GitHub. The **Old School Gaming Hub** is dedicated to developing classic 2D games, primarily focusing on **C++ implementations**, to provide nostalgic gaming experiences for enthusiasts and developers alike. Explore more projects and games from [Old School Gaming Hub](https://github.com/OldSchool78).
 
 ---
 
